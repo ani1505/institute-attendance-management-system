@@ -1,6 +1,6 @@
 dbConfig = {
-     'user': 'user1',  # use your admin name
-     'password': "123",  # use your admin password
+     'user': 'YOUR_DB_USER',  # use your admin name
+     'password': "YOUR_DB_PASSWORD",  # use your admin password
      'host': '127.0.0.1',  # IP address of localhost
      'database': 'attendance', # your database (comment this line when running dbcreate.py)
      'raise_on_warnings': True,
