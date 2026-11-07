@@ -1,6 +1,6 @@
 dbConfig = {
-     'user': 'bharat',  # use your admin name
-     'password': "bharatsql",  # use your admin password
+     'user': 'user1',  # use your admin name
+     'password': "123",  # use your admin password
      'host': '127.0.0.1',  # IP address of localhost
      'database': 'attendance', # your database (comment this line when running dbcreate.py)
      'raise_on_warnings': True,
